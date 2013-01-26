@@ -35,7 +35,7 @@ puts "cardinality of fingerprints:"
 puts "	#{fingerprint1.cardinality}"
 puts "	#{fingerprint2.cardinality}"
 
-puts "which bits are set to string:"
+puts "which bits are set to true:"
 puts "	#{fingerprint1.toString}"
 puts "	#{fingerprint2.toString}"
 
